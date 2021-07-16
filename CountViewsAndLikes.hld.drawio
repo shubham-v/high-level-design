@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-16T11:49:11.191Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="UBC0ecD0KMcFH0pXkbUi" version="14.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-16T13:33:47.002Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="_0OFS0E4Jk6gPe2wshVI" version="14.8.6" type="github">
   <diagram id="6af1yA_S9DBKOZfgWAq6" name="Page-1">
     <mxGraphModel dx="3568" dy="182" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="100" pageHeight="100" math="0" shadow="0">
       <root>
@@ -427,8 +427,8 @@
         <mxCell id="x5Q5SPVU8qtSfG2cZvHa-416" value="Database Writer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-660" y="800" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="x5Q5SPVU8qtSfG2cZvHa-417" value="Embedded Db (Rocks DB)" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-630" y="660" width="60" height="60" as="geometry" />
+        <mxCell id="x5Q5SPVU8qtSfG2cZvHa-417" value="Embedded Db (Rocks DB) (for video and channel related info)" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-630" y="650" width="60" height="120" as="geometry" />
         </mxCell>
         <mxCell id="x5Q5SPVU8qtSfG2cZvHa-418" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="x5Q5SPVU8qtSfG2cZvHa-411" target="x5Q5SPVU8qtSfG2cZvHa-408">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
